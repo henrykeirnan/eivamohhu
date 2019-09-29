@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oozaijalae.jopearce.co.uk/sitemap.xml
